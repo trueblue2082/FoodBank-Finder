@@ -1,4 +1,6 @@
 export { default as Home } from "./Home";
-export { default as Bio } from "./Bio";
-export { default as Gallery } from "./Gallery";
-export { default as Form } from "./Form";
+export { default as Location} from "./Location";
+export { default as Appointment } from "./Appointment";
+export { default as ReviewConfirmAppointment } from "./Review & Confirm Appointment";
+export { default as Confirmation } from "./Confirmation";
+
