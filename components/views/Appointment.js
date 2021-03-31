@@ -1,5 +1,5 @@
 export default () => `
-<input type="Make an appointment!">`;
+<h1>Appointment</h1>`;
 
 
 
