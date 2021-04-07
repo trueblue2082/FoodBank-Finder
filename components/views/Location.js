@@ -69,18 +69,11 @@ export default () => `
   <option value="63195">63195</option>
   <option value="63197">63197</option>
   <option value="63199">63199</option>
-
 </select>
 <br><br>
 <input type="submit" value="Submit">
 </form>
+<h1><a href="/Appointment" data-navigo>Click Me</a></h1>
 <br>
-<!DOCTYPE html>
-<html>
-<body>
-
-
-
 <div id="googleMap" style="width:100%;height:400px;"></div>
-
 `
