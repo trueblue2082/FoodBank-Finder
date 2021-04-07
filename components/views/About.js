@@ -10,7 +10,7 @@ export default () => `
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="" alt="Donald" style="width:100%">
+      <img src="https://github.com/trueblue2082/FoodBank-Finder/blob/main/lib/Photos/Photo.jpg?raw=true" alt="Donald" style="width:100%">
       <div class="container">
         <h2>Donald Cole</h2>
         <p class="title">CEO & Founder</p>
