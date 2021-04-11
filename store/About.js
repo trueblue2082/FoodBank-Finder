@@ -1,4 +1,8 @@
 export default {
   header: "About Page",
-  page: "About"
+  page: "About",
+  photos: [
+    {
+    }
+  ]
 }
