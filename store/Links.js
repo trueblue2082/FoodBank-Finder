@@ -3,4 +3,5 @@ export default [
   { title: "Location", text: "Choose Location" },
   { title: "About", text: "About Us" },
   { title: "Contact", text: "Contact Us" },
+  { title: "Appointment", text: "Appointment"}
 ];

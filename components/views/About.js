@@ -4,7 +4,7 @@ export default (st) =>
 <div class="about-section">
   <h1>About Us Page</h1>
   <p>This app was created to provide a method of setting up an appointment to pick up grocery items from a foodbank. My desire is to make it easier for both foodbank volunteers and customers to better facilitate the process of distribution and pickup of orders. This app is designed to reduce the stress of long wait lines and frustrating checkout processes.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
+
 </div>
 
 <h2 style="text-align:center">Our Team</h2>

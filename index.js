@@ -23,13 +23,21 @@ function render(st = state.Home) {
   ${Main(st)}
   ${Footer()}
 `;
-
+addEventListeners();
   router.updatePageLinks();
+
 }
 
 // add menu toggle to bars icon in nav bar
-document
-  .querySelector(".fa-bars")
-  .addEventListener("click", () =>
-    document.querySelector("nav > ul").classList.toggle("hidden--mobile")
-  );
+
+
+  function addEventListeners(){
+    const hamburger =  document.querySelector(".fa-bars")
+
+    hamburger.addEventListener("click", () =>
+      document.querySelector("nav > ul").classList.toggle("hidden--mobile")
+    );
+
+
+
+  }
